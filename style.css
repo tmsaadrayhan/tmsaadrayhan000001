@@ -3,9 +3,9 @@ img{
 }
 .bd{
     background-color: rgb(121, 177, 190);
-    font-size: 30px;
-    padding: 10px 40px;
-    width: 250px;
+    font-size: 60px;
+    padding: 15px 20px;
+    width: 500px;
     text-align: center;
     margin: 0 auto;
 }
@@ -28,12 +28,11 @@ img{
     display: inline-block;
 }
 .padding{
-    padding: 20px 40px;
+    padding: 30px 50px;
     color: rgb(0, 0, 0);
     background-color: rgb(255, 238, 0);
-    font-size: 60px;
+    font-size: 100px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    width: 650px;
     text-align: center;
     margin: 0 auto;
     margin-bottom: 50px;
