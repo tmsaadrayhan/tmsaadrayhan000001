@@ -1,4 +1,8 @@
 img{
+    border: 20px solid rgb(255, 0, 85);
+    display: flex;
+    align-items: center;
+    justify-content: center;
     height: 500px;
 }
 .bd{
@@ -6,6 +10,7 @@ img{
     font-size: 60px;
     padding: 15px 20px;
     width: 500px;
+    height: 100px;
     text-align: center;
     margin: 0 auto;
 }
@@ -17,16 +22,6 @@ img{
     color: rgb(255, 0, 0);
     font-weight: bolder;
 }
-.border{
-    border: 20px solid rgb(255, 0, 85);
-    margin: 40px 10px 40px 40px;
-    display: inline-block;
-}
-.fborder{
-    border: 20px solid rgb(255, 0, 85);
-    margin: 40px 10px 40px 60px;
-    display: inline-block;
-}
 .padding{
     padding: 30px 50px;
     color: rgb(0, 0, 0);
@@ -34,16 +29,15 @@ img{
     font-size: 100px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     text-align: center;
-    margin: 0 auto;
     margin-bottom: 50px;
     margin-top: 30px;
     font-weight: bold;
 }
-.d90s{
-    text-align: center;
-    
+p{
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
-.d90sp{
-    text-align: center;
-    margin-top: 100px;
+.s{
+    margin-bottom: 50px;
 }
